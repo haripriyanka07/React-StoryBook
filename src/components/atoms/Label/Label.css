@@ -1,0 +1,23 @@
+label {
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-right: 1rem;
+    border-color: inherit;
+    background-color: inherit;
+    display: block;
+}
+
+.small {
+    height: 2rem;
+    font-size: 0.875rem;
+}
+
+.medium {
+    height: 2.5rem;
+    font-size: 1rem;
+}
+
+.large {
+    height: 3rem;
+    font-size: 1.25rem;
+}
